@@ -1,7 +1,6 @@
 #include <iostream>
 #include "GraphClass.h"
 
-//Comentario
 int main()
 {
     Graph<char> graph;
